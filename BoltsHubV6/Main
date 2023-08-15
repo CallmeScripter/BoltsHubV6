@@ -1,0 +1,11 @@
+if game.PlaceId == 286090429 or game.PlaceId == 8412573470 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AndrewDarkyy/NOWAY/main/THUNDER_MOBILE_NO_WAY.lua"))()
+elseif game.PlaceId == 8412573470 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-1"))()
+elseif game.PlaceId == 301549746 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-2"))()
+elseif game.PlaceId == 6172932937 then
+    loadstring(game:HttpGet(https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-3"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-4"))()
+end
