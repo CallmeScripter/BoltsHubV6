@@ -5,7 +5,7 @@ elseif game.PlaceId == 8412573470 then
 elseif game.PlaceId == 301549746 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-2"))()
 elseif game.PlaceId == 6172932937 then
-    loadstring(game:HttpGet(https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-3"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-3"))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CallmeScripter/BoltsHubV6/main/BoltsHubV6-4"))()
 end
